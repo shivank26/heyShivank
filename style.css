@@ -273,7 +273,7 @@ ul.topNav a:hover {
 }
 
 
-@media (max-width: 1080px) {
+@media (max-width: 768px) {
 
     ul.topNav .navLink {
         display: none;
