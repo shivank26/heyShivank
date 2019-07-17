@@ -96,13 +96,7 @@ ul.topNav a:hover {
     padding: 3rem 0;
     width: 100%;
     color: #efefef;
-    transition: .2s ease-in-out;
 }
-
-.headShotWrapper:hover {
-    transform: scale(1.1);
-}
-
 .headShot {
     margin: auto;
 }
@@ -279,7 +273,7 @@ ul.topNav a:hover {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 1080px) {
 
     ul.topNav .navLink {
         display: none;
